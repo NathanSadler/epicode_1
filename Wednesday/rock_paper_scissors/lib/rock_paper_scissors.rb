@@ -20,7 +20,4 @@ class RPS
       false
     end
   end
-
-
-
 end
