@@ -18,6 +18,3 @@ allergen_hash.keys.reverse.each do |pointvalue|
     remaining_score -= pointvalue
   end
 end
-
-
-print(allergen_list)
